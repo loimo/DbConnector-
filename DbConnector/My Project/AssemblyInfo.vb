@@ -20,7 +20,7 @@ Imports System.Runtime.InteropServices
 'The following GUID is for the ID of the typelib if this project is exposed to COM
 <Assembly: Guid("3631b20e-230f-44f1-aa04-05e3bad9465b")> 
 
-' Version information for an assembly consists of the following four values:
+' Version information for an assembly consists of the following four values:llll
 '
 '      Major Version
 '      Minor Version 
